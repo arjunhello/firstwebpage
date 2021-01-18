@@ -1,7 +1,7 @@
   
 <title> cHilL bRo 🥶 </title>
 <h1> cHilL bRo </h1>
-<table border="0" cellspacing="30">
+<table cellspacing="30">
 <tr>
 <td><img src="C:\Users\arjun\Desktop\Arjun\cod\download.jpg"></td>
 <td><p><em> i am a <strong>typical student</strong> and i am going to code to change people's</em> </p>
